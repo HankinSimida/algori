@@ -33,5 +33,4 @@ hs_err_pid*
 *.iws
 mvnw
 *.cmd
-*.md
 *.mvn
