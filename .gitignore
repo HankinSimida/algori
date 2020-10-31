@@ -5,6 +5,7 @@
 /resources/static
 # Compiled class file
 *.class
+/out/*
 
 # Log file
 *.log
